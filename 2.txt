@@ -1,0 +1,291 @@
+Speed distance and driving with consideration for the environment
+
+	Outside built-up areas -> flash headlight -> warning signal, announce to overtake
+
+	In built-up areas -> flash headlight -> just as a warning signal
+
+	On narrow roads where oncoming traffic could be endangered you may only drive at a speed that
+	allows you to stop within at least 'half of your range of vision'
+
+	At double the speed the reaction distance is 'twice (2)' as long
+
+	At double the speed the braking distance is 'four times (4)' as long
+
+	With snow chains you must not drive any faster than 50 km/h
+
+	Safety Distances:
+
+		One rule of thumb:
+
+			Safety Distance is half of the speed shown on the speedometer
+
+			e.g. If you are driving at 100 km/h the distance between yourself and the vehicle in front of you
+				 must be at least 50 meters or more
+
+	-------
+
+	km/hr to m/sec  -> (Speed(km/h)/10) * 3
+
+	Reaction Distance or Reaction Path:
+
+		(Speed(km/h)/10) * 3
+
+	Normal Braking Distance:
+
+		(Speed(km/h)/10) * (Speed(km/h)/10)
+
+	Emergency Braking Distance:
+
+		((Speed(km/h)/10) * (Speed(km/h)/10))/2 => NormalBreakingDistance/2
+
+	Stopping Distance:
+
+		Reaction Path + Normal Breaking Distance
+
+-------
+
+Driving manoeuvres, observing the traffic
+
+	If two vehicles are approaching each other at a speed of 100 km/h, for example
+	the come 60 meters closer every second.
+
+	That means 600 meters in 10 seconds
+
+-------
+
+Technical conditions, the transport of passengers and goods
+
+	Increase the tyre pressure by 0.2 bar for long car journeys and if you have winter tyres
+
+	At the rear:
+
+		On stretches of road of 'up to 100km' the load may project by up to 3m
+
+		On stretches of road of 'more than 100km' the load may only project by 1.5m
+
+	As from 1.00m the projecting load must be made identifiable, in the day by
+
+		a bright red sign (30x30cm)
+
+		a bright red flag (30x30cm)
+
+		a cylindrical body (30x35cm)
+
+		in the dark by a red lamp and a red reflector
+
+		The devices for securing the load may be no more than 1.50m above the carriageway
+		and the reflectors no more than 90cm above the carriageway
+
+-------
+
+Priority
+
+	Right before left does not apply also apply at:
+
+		at sunken curbstones and
+
+		at the entrance to the carriageway of other parts of the road such as pedestrian paths,
+		hard shoulders or parking lanes
+
+-------
+
+Basic rules, road signs and traffic facilities
+
+	square box with distance and arrow signs ahead -> An additional sign to indicate the length of the dangerous stretch of the road
+
+	Triangle with red marking and an exclamation -> When in build-up area, the hazard is expected to be between 150m and 250m
+
+	H2 -> Hydrogen filling station
+
+	CNG -> Natural gas fuel station
+
+	LPG -> Auto gas filling station
+
+-------
+
+Driving manoeuvres, observing the traffic
+
+	How long are the overtaking distances:
+
+		Overtaking distance = (V1/(V1-V2)) * L
+
+		L -> length of V1 + length of V2 + safety distance to V2 + safety distance ahead of V2
+
+	Sign:
+
+		Prohibition on overtaking
+
+			Outer area red, inner area white with two cars, on the left the car is marked red
+
+				Overtaking prohibited for all vehicles. However, motorcycles without a side-car, bicycles with an
+				auxiliary motor, trams and non-motorised vehicles may be overtaken
+
+-------
+
+The road traffic system and its use, level crossing
+
+	The halt restriction is valid up to 10m before the sign, if covered by it,
+	so that the St. Andrew cross and thus the level crossing may be identified in time
+
+	To improve the visibility of the tracks, parking is prohibited before the St. Andrew's cross
+	up to 5m in urban areas and up to 50m in rural areas
+
+	One must wait before the St. Andrew's cross, if
+
+		there is a red flashing light or a yellow or red traffic light - even if the barrier is still open
+		(if the red flashing light or the red traffic light is in the form of arrow, only the driver who wishes
+		to travel/turn in the direction of the arrow must wait)
+
+	What must you be aware of when joining the motorway
+
+		The through-driving traffic has priority
+
+		One the merging lane, I may drive faster than the through-driving traffic
+
+-------
+
+Other road users
+
+	You may only overtake cyclists in built-up areas with at least 1.5m side clearance
+
+	Outside towns, the distance must be 2m
+
+	When regular buses and school buses are pulling up at a bus stop and have switched
+	on their hazard warning lights, they may no longer be overtaken
+
+-------
+
+Technical conditions, the transport of passengers and goods
+
+	Tyre tread
+
+		a new car tyre (with summer tyres) has a depth of approx. 6-8mm
+
+	ASR (Traction Control System)
+
+		prevents the wheels from spinning and 
+
+		reduces the risk of skidding sideways on a slippery road
+
+	-------
+
+	ABS (Anti-lock Braking System)
+
+		the rpm of the individual wheels are measured continuously in vehicles with ABS
+
+		if a wheel locks while braking, the electronics reduces the braking force at the respective
+		wheel to the extent that the wheel turns again evenly
+
+		this takes place approx. 50 times per second, i.e much faster than humanly possible
+
+		IMP:
+
+			ABS cannot shorten the braking path, but ensures steerability in case of (emergency) braking
+
+			the vehicle also brakes best possible on a slippery road and you can continue to evade
+
+	-------
+
+	ESP (Electronic Stability Program)
+
+		identifies critical driving states (skidding at the curve, etc.)
+
+		and the vehicle is stabilized, e.g. with electronic braking intervention
+
+	-------
+
+	Cruise Control
+
+		maintaining a constant speed and energy saving driving mode
+
+	-------
+
+	ACC (Adaptive Cruise Control)
+
+		accelerates independently to a 'preset' speed, measures the distance to the preceding vehicle
+		and brakes to ensure that safe distance is maintained
+
+	-------
+
+	LDW (Lane Departure Warning System)
+
+		use lane markings to register if the vehicle might leave the lane
+
+		you will be warned, e.g. by a vibrating steering wheel, or the vehicle intervenes in the steering independently
+
+		However, the functionality is limited when there are no road markings or the road is dirty
+
+-------
+
+Stationary Traffic
+
+	Prohibitions against stopping
+
+		at narrow and unclear parts of the roads
+
+		near sharp bends
+
+		on accelerating and deceleration lanes
+
+		on autobahns and clearways
+
+		on zebra crossing and up to 5 meters before them
+
+		on level crossing
+
+		on protection lanes for cyclists
+
+	Parking is not permitted
+
+		anywhere where stopping is prohibited
+
+		up to 5m before and after cross-roads and junctions measured from the intersections
+		of the carriageway edges
+
+		up to 8m before and after crossroads and junctions with cycle paths
+
+		before and after diagonal crosses at level crossing
+			inside built-up areas up to 5m on each side
+
+			outside built-up areas up to 50m on each side
+
+		on manholes and other covers
+
+	Limited prohibitions on stopping
+
+		Sign: 
+
+			Outer area red, inner area blue with a diagonal marking in red going from top-left to bottom-right
+
+			Drivers not stop for limited prohibition on stopping more than 3 minutes
+			on the road, except for boarding or alighting and for loading or unloading.
+
+-------
+
+Lifelong learning
+
+	ASF (Supplementary Training Seminar)
+
+		If first black mark and didn't attend the seminar
+
+			Confiscation of the driving license
+
+			Not returned until the submission of the certificate
+
+	ASF
+
+		Improve the driving skills in the following areas
+
+			Control of the vehicle
+
+			Knowledge of and compliance with the rules
+
+			Perceiving dangers
+
+			Estimation of one's own skills
+
+			Controlling of one's own feelings
+
+			A sense of responsibility
+
+			Awareness of risk and consideration towards other road users
